@@ -45,7 +45,7 @@
     <link href="http://my.cpxxpc.com/2016/12/28/D1/"/>
     <id>http://my.cpxxpc.com/2016/12/28/D1/</id>
     <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-05T11:02:29.000Z</updated>
+    <updated>2017-01-07T02:35:25.000Z</updated>
     
     <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
 <p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
@@ -59,7 +59,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -181,7 +181,7 @@
     <link href="http://my.cpxxpc.com/2016/12/05/D1/"/>
     <id>http://my.cpxxpc.com/2016/12/05/D1/</id>
     <published>2016-12-04T16:00:00.000Z</published>
-    <updated>2017-01-05T11:00:23.000Z</updated>
+    <updated>2017-01-07T02:35:14.000Z</updated>
     
     <content type="html"><![CDATA[<p>今日，对Github站做了收尾的两项调整与完善——</p>
 <p>其一，刚刚才了解到此架构并不支持IE内核浏览，因此对提示页面做了相应的“汉化”（并使用二维码作为补救手段）。虽然有一定缺失感，但对于我低调、朴实的立足点也不是什么问题，何况，现在采用纯IE内核浏览器的人也并不是那么多了，这方面的影响可以大致忽略掉的。</p>
@@ -196,7 +196,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -206,7 +206,7 @@
     <link href="http://my.cpxxpc.com/2016/12/03/D1/"/>
     <id>http://my.cpxxpc.com/2016/12/03/D1/</id>
     <published>2016-12-02T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:53.000Z</updated>
+    <updated>2017-01-07T02:35:09.000Z</updated>
     
     <content type="html"><![CDATA[<p>在反复权衡后，决定从今日起，Github站（基于Jekyll）作为新的个人主页/博客得以“正位”，新站决定保留原cpxxpc.com个人域名及图片外链方式，放弃”麦收客“的命名；原独立空间的Wordpress版”麦收客“转入NAS01留存，停止更新，仅作为镜像化备份；同时，将”网行志“镜像站亦转入NAS01，作为纪念性留存。</p>
 <p>至此，全功能or高精简之议终于有了定论，我还是选择了更为高效简约的第三方托管方式，虽然放弃了很多个性化、完善化的功能，但在目前境况下，还是这种高度的集成与简约更为适合我。从此以后，放弃各种折腾、各种繁琐，回归一个小小的个人主页/博客的基本立足点上来吧。也许，只有放弃了貌似华丽的功能，才能有可能回归朴实的内容，尤其对于现阶段的我，更是应该如此的！！</p>
@@ -218,7 +218,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -228,7 +228,7 @@
     <link href="http://my.cpxxpc.com/2016/12/02/D1/"/>
     <id>http://my.cpxxpc.com/2016/12/02/D1/</id>
     <published>2016-12-01T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:48.000Z</updated>
+    <updated>2017-01-07T02:35:03.000Z</updated>
     
     <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1" target="_blank" rel="external">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1" target="_blank" rel="external">第二版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
@@ -266,7 +266,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -276,7 +276,7 @@
     <link href="http://my.cpxxpc.com/2016/12/01/D1/"/>
     <id>http://my.cpxxpc.com/2016/12/01/D1/</id>
     <published>2016-11-30T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:43.000Z</updated>
+    <updated>2017-01-07T02:34:58.000Z</updated>
     
     <content type="html"><![CDATA[<p>为了尽量寻求简单、简洁，近日将早已初步构建完成的基于Github+Jekyll的主页（博客）进行了日志补全及细致完善，使之在全免费（包括空间、域名等方面）的前提下实现了高度精简（包括去除了各独立页面及日志标签等），目前已可与现有基于Wordpress的主站并行运作，并计划在一段时间内同步更新，如此”实战“测试后再决定取舍。</p>
 <p>如果最终扶正此”全免费、高精简“的新主页，势必要对相应的日常发布流程进行必要的调整，外围领域的各页面也要进行必要的调整、精简，这些等待确定后再议不迟。</p>
@@ -290,7 +290,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -300,7 +300,7 @@
     <link href="http://my.cpxxpc.com/2016/11/26/D1/"/>
     <id>http://my.cpxxpc.com/2016/11/26/D1/</id>
     <published>2016-11-25T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:41.000Z</updated>
+    <updated>2017-01-07T02:34:51.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，将“麦收客”的主题由No.7更改为Akina，并完成了对主题代码及文章排版的适度调整；至今日，新主题终于可以正式“接班”了。</p>
 <p>主题虽改，但“平平淡淡，简简单单”的立足点不会改，希望这些改与不改能够继续伴随我走过这段特殊的人生岁月。</p>
@@ -319,7 +319,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -404,7 +404,7 @@
     <link href="http://my.cpxxpc.com/2016/08/29/D1/"/>
     <id>http://my.cpxxpc.com/2016/08/29/D1/</id>
     <published>2016-08-28T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:23.000Z</updated>
+    <updated>2017-01-07T02:34:40.000Z</updated>
     
     <content type="html"><![CDATA[<p>原版见<a href="http://cpxxpc.com/2016/07/06/D1" target="_blank" rel="external">此文</a>，以下为完善后的新版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
@@ -445,7 +445,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -455,7 +455,7 @@
     <link href="http://my.cpxxpc.com/2016/08/07/D1/"/>
     <id>http://my.cpxxpc.com/2016/08/07/D1/</id>
     <published>2016-08-06T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:17.000Z</updated>
+    <updated>2017-01-07T02:34:35.000Z</updated>
     
     <content type="html"><![CDATA[<p>得益于Ulysses的使用，近日，再对个人页面系统做了如下“终极”调整—</p>
 <ul>
@@ -478,7 +478,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
@@ -512,7 +512,7 @@
     <link href="http://my.cpxxpc.com/2016/07/28/A1/"/>
     <id>http://my.cpxxpc.com/2016/07/28/A1/</id>
     <published>2016-07-27T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:09.000Z</updated>
+    <updated>2017-01-07T02:34:28.000Z</updated>
     
     <content type="html"><![CDATA[<p>来源：原创</p>
 <p>缘起：针对目前心态与做法，悟出此理。</p>
@@ -528,7 +528,7 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://my.cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔,语丝" scheme="http://my.cpxxpc.com/categories/%E9%9A%8F%E7%AC%94-%E8%AF%AD%E4%B8%9D/"/>
     
     
   </entry>
@@ -567,7 +567,7 @@
     <link href="http://my.cpxxpc.com/2016/07/24/D1/"/>
     <id>http://my.cpxxpc.com/2016/07/24/D1/</id>
     <published>2016-07-23T16:00:00.000Z</published>
-    <updated>2017-01-05T10:59:01.000Z</updated>
+    <updated>2017-01-07T02:34:13.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，又对个人页面系统做了如下局部调整—</p>
 <ul>
@@ -592,7 +592,7 @@
     
     </summary>
     
-      <category term="杂录" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+      <category term="杂录,站务" scheme="http://my.cpxxpc.com/categories/%E6%9D%82%E5%BD%95-%E7%AB%99%E5%8A%A1/"/>
     
     
   </entry>
