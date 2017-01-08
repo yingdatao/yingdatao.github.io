@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-08T00:38:41.000Z</updated>
+  <updated>2017-01-08T01:26:17.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摘录/笔记/发布，各领域新调整（第四版）</title>
+    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
+    <id>http://cpxxpc.com/2017/01/08/D2/</id>
+    <published>2017-01-07T16:00:00.000Z</published>
+    <updated>2017-01-08T01:26:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>、<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
+<p>摘录类（全文）——</p>
+<ul>
+<li><strong>印象笔记</strong>（总库）</li>
+<li><strong>Instapaper</strong>（稍后读，加星入印象笔记）</li>
+<li>Safari阅读列表（稍后读，必要项入印象笔记）</li>
+<li>微信收藏（特用）</li>
+</ul>
+<p>摘录类（片段）——</p>
+<ul>
+<li>移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按<a href="http://sspai.com/35281" target="_blank" rel="external">此文</a>设置）</li>
+<li>电脑端：通过印象笔记添加至相应笔记中</li>
+</ul>
+<p>笔记类——</p>
+<ul>
+<li><strong>系统备忘录</strong>（备忘+自语）</li>
+<li><strong>DayOne</strong>（日记+随拍）</li>
+<li>NAS01（文档类）</li>
+</ul>
+<p>发布类——</p>
+<ul>
+<li>博客（主页）——<ul>
+<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写,Mac05电脑端发布      </li>
+<li>电脑端（侧重图文类）：<strong>Simplenote</strong>书写（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
+</ul>
+</li>
+<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/12/
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo+Github新架构，写博新体验</title>
@@ -79,34 +131,6 @@
   </entry>
   
   <entry>
-    <title>主页/博客区隔调整</title>
-    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
-    <id>http://cpxxpc.com/2016/12/28/D1/</id>
-    <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
-<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
-<p>低调有情致，真我空间也~~</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
-&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
     <title>近况小语（161228）</title>
     <link href="http://cpxxpc.com/2016/12/28/A1/"/>
     <id>http://cpxxpc.com/2016/12/28/A1/</id>
@@ -131,6 +155,34 @@
     </summary>
     
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主页/博客区隔调整</title>
+    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
+    <id>http://cpxxpc.com/2016/12/28/D1/</id>
+    <published>2016-12-27T16:00:00.000Z</published>
+    <updated>2017-01-07T08:29:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
+<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
+<p>低调有情致，真我空间也~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
+&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
@@ -169,6 +221,32 @@
   </entry>
   
   <entry>
+    <title>趁着睡意未全失，尽快正常睡下吧！</title>
+    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
+    <id>http://cpxxpc.com/2016/12/08/A1/</id>
+    <published>2016-12-07T16:00:00.000Z</published>
+    <updated>2017-01-07T08:29:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
+<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
     <title>暖心小语</title>
     <link href="http://cpxxpc.com/2016/12/08/A2/"/>
     <id>http://cpxxpc.com/2016/12/08/A2/</id>
@@ -189,32 +267,6 @@
 &lt;p&gt;舒缓心境，&lt;/p&gt;
 &lt;p&gt;坦向明晨。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://image.cpxxpc.com/zuodian.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>趁着睡意未全失，尽快正常睡下吧！</title>
-    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
-    <id>http://cpxxpc.com/2016/12/08/A1/</id>
-    <published>2016-12-07T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
-<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
 
     
     </summary>
@@ -619,39 +671,6 @@
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
       <category term="语丝" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/%E8%AF%AD%E4%B8%9D/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kindle阅读新捷径 ——Reabble专配阅读器</title>
-    <link href="http://cpxxpc.com/2016/07/25/D1/"/>
-    <id>http://cpxxpc.com/2016/07/25/D1/</id>
-    <published>2016-07-24T16:00:00.000Z</published>
-    <updated>2017-01-07T08:28:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>作为一名Kindle的重度用户，其内置的“体验版浏览器”却很少使用，感觉其更类似于一个鸡肋，其原因，我想对于Kindle用户而言不言自明，不需多说。但今天，无意中结识了专为Kindle内置浏览器而设计的RSS阅读网站（兼阅读工具）Reabble后，却让我忽然觉得此“鸡肋”其实是完全可以成为美味“鸡肉”的。</p>
-<p>Reabble提供的服务简单来说，就是在完全适配Kindle内置浏览器的专有页面环境下，为Kindle用户精心打造出了一个相对舒适的RSS阅读环境。相对于电脑、手机端的阅读，此时Kindle的屏幕优势不言自明；而相对于Kindle4RSS、狗耳朵之类的推送类RSS订阅服务，Reabble依托网页端的方式则更为轻巧、灵活。何况Reabble的页面设计完全为Kindle而优化和调整，尽最大努力避免了Kindle浏览网页时出现的不断刷屏之类的弊病，而采用了类似本地书籍一样的滚动按钮和点击翻页方式，且可自由设置页面的字体、字号等，使得我们的阅读与使用体验不至于有所降低，而是保持了Kindle的一贯水准。</p>
-<p>列表页——</p>
-<p><img src="http://image.cpxxpc.com/reabble1.png-700" alt=""></p>
-<p>文章页（包括页面设置项）——</p>
-<p><img src="http://image.cpxxpc.com/reabble2.png-700" alt=""></p>
-<p>Reabble的使用也很简单，Kindle内置浏览器中访问reabble.com，使用inoreader账号登陆即可，更完整的使用技巧可参考此<a href="http://reabble.com/help" target="_blank" rel="external">官方文档</a>。（PS：话说inoreader也是一款很不错的全平台RSS阅读器，与Reabble绑定后，可以很方便的在电脑或手机端通过inoreader进行RSS订阅源的添加与编辑，然后在Kindle端的Reabble直接进行阅读就OK了；看到好的文章，可以直接加星标，inoreader帐户中也会同步加星，这样，就打通了Kindle与电脑、手机的互联通道。）</p>
-<p>Reabble的免费版限制为每天最多阅读15篇文章，付费即可去除此限制，费用也不多，9元每年或27元永久。如此好的服务，推荐Kindler们都来体验下，相信你也会爱上它的！！</p>
-<p>PS：本文为首次采用新的电脑端发布方式书写并发布完成。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;作为一名Kindle的重度用户，其内置的“体验版浏览器”却很少使用，感觉其更类似于一个鸡肋，其原因，我想对于Kindle用户而言不言自明，不需多说。但今天，无意中结识了专为Kindle内置浏览器而设计的RSS阅读网站（兼阅读工具）Reabble后，却让我忽然觉得此“鸡肋”其
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="体验" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E4%BD%93%E9%AA%8C/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
