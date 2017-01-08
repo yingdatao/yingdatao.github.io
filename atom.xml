@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-07T08:29:51.000Z</updated>
+  <updated>2017-01-08T00:38:41.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Github新架构，写博新体验</title>
+    <link href="http://cpxxpc.com/2017/01/08/D1/"/>
+    <id>http://cpxxpc.com/2017/01/08/D1/</id>
+    <published>2017-01-07T16:00:00.000Z</published>
+    <updated>2017-01-08T00:38:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。</p>
+<p>作出这样的决定，并非一时冲动，而是基于以下几点的考虑—</p>
+<ul>
+<li><p>Hexo深浅适度，既可满足我对DIY自我构建的需求，又不至于太过艰深。综合对比，Wordpress臃肿且缺乏自我探索的成就感，Jekyll相对于我又显得过于繁琐且艰深（原Jekyll站其实算不上什么自我构建），而Hexo体量轻巧又可激发我适度探索，且有Next这类精致主题加持，自然正合我意。</p>
+</li>
+<li><p>Hexo原始古朴，正适合自由的“随处写”，极客的“集中发”。相比过往的随时随地写后即时发布，这种貌似“原始”的方式更能激发我找到写字的本原感觉与发布/维护的成就感，其实，这才是端正的写博态度（随写随发应该更类似于微博的姿态）。<strong>随处书写，本地管理，远端呈现</strong>，这是多么回归本真的写博体验啊！（具体的写作/发布细节调整，后续专文详述）</p>
+</li>
+<li><p>至于Hexo与Github结合后的更多细微优劣，还待今后慢慢体会。</p>
+</li>
+</ul>
+<p>由于仍然基于Github这方“热土”，仅仅架构内核与构建方式发生了变化，所以本次改动算不上迭代式的大变化；原Jekyll站已暂停更新，以jekyll.cpxxpc.com地址作以留存。</p>
+<p>本文作为2017开篇日志，同时也是新模式下发布的第一文，顺便纪念下！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
   
   <entry>
     <title>nn成长小记（161229）</title>
@@ -252,7 +288,7 @@
     <published>2016-12-01T16:00:00.000Z</published>
     <updated>2017-01-07T08:29:17.000Z</updated>
     
-    <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1" target="_blank" rel="external">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1" target="_blank" rel="external">第二版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
+    <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
 <ul>
 <li><strong>印象笔记</strong>（总库）</li>
@@ -284,7 +320,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot; target=&quot;_bla
+      &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;，以下为进一步调整后的第三版各领域具体配置与流程安排：&lt;/p&gt;
+&lt;p&gt;摘
     
     </summary>
     
@@ -446,7 +483,7 @@
     <published>2016-08-28T16:00:00.000Z</published>
     <updated>2017-01-07T08:28:54.000Z</updated>
     
-    <content type="html"><![CDATA[<p>原版见<a href="http://cpxxpc.com/2016/07/06/D1" target="_blank" rel="external">此文</a>，以下为完善后的新版各领域具体配置与流程安排：</p>
+    <content type="html"><![CDATA[<p>原版见<a href="http://cpxxpc.com/2016/07/06/D1">此文</a>，以下为完善后的新版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
 <ul>
 <li><strong>印象笔记</strong>（总库）</li>
@@ -478,10 +515,11 @@
     
     <summary type="html">
     
-      &lt;p&gt;原版见&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;此文&lt;/a&gt;，以下为完善后的新版各领域具体配置与流程安排：&lt;/p&gt;
+      &lt;p&gt;原版见&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;此文&lt;/a&gt;，以下为完善后的新版各领域具体配置与流程安排：&lt;/p&gt;
 &lt;p&gt;摘录类（全文）——&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;
+&lt;li&gt;&lt;strong&gt;印象笔记&lt;/strong&gt;（总库）&lt;/li&gt;
+&lt;
     
     </summary>
     
@@ -614,45 +652,6 @@
       <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
     
       <category term="体验" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E4%BD%93%E9%AA%8C/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人页面系统局部微调整</title>
-    <link href="http://cpxxpc.com/2016/07/24/D1/"/>
-    <id>http://cpxxpc.com/2016/07/24/D1/</id>
-    <published>2016-07-23T16:00:00.000Z</published>
-    <updated>2017-01-07T08:28:31.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近日，又对个人页面系统做了如下局部调整—</p>
-<ul>
-<li>博客（主页）——<ul>
-<li>移动端（侧重文字类）：Byword书写并发布（iCloud自动备份同步）- Wordpress客户端微调（去除#标签）并修正（恢复md代码）      </li>
-<li>电脑端（侧重图文类）：Byword书写并发布（借助iPic插入图片并获取七牛外链；iCloud自动备份同步）- Wordpress后台微调（去除#标签，添加特色图片）并修正（恢复md代码）</li>
-</ul>
-</li>
-<li>为减轻NAS01负担，将上述自动同步备份改由iCloud进行（且与Byword有较好的契合），另将主站（博客）及旧站（网行志）迁回美国主机（兼顾确保站点运行稳定性）</li>
-</ul>
-<p>PS：本文即采用新的移动端发布方式发布并修正完成。</p>
-<p>PS：电脑端指Mac平台，部分内容有调整；Win平台可借助WordMark书写与发布（七牛手工外链）。（160728修正）</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近日，又对个人页面系统做了如下局部调整—&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;博客（主页）——&lt;ul&gt;
-&lt;li&gt;移动端（侧重文字类）：Byword书写并发布（iCloud自动备份同步）- Wordpress客户端微调（去除#标签）并修正（恢复md代码）      &lt;/li&gt;
-&lt;li&gt;
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
