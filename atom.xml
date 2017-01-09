@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-09T12:19:38.000Z</updated>
+  <updated>2017-01-09T12:57:08.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -16,31 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>摘录/笔记/发布，各领域新调整（第四版）</title>
+    <title>摘录/笔记/发布，各领域新调整（第三版局部修正）</title>
     <link href="http://cpxxpc.com/2017/01/08/D2/"/>
     <id>http://cpxxpc.com/2017/01/08/D2/</id>
     <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-09T12:19:38.000Z</updated>
+    <updated>2017-01-09T12:57:08.000Z</updated>
     
-    <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>、<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
-<p>摘录类（全文）——</p>
-<ul>
-<li><strong>印象笔记</strong>（总库）</li>
-<li><strong>Instapaper</strong>（稍后读，加星入印象笔记）</li>
-<li>Safari阅读列表（稍后读，必要项入印象笔记）</li>
-<li>微信收藏（特用）</li>
-</ul>
-<p>摘录类（片段）——</p>
-<ul>
-<li>移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按<a href="http://sspai.com/35281" target="_blank" rel="external">此文</a>设置）</li>
-<li>电脑端：通过印象笔记添加至相应笔记中</li>
-</ul>
-<p>笔记类——</p>
-<ul>
-<li><strong>系统备忘录</strong>（备忘+自语）</li>
-<li><strong>DayOne</strong>（日记+随拍）</li>
-<li>NAS01（文档类）</li>
-</ul>
+    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修正：</p>
 <p>发布类——</p>
 <ul>
 <li>博客（主页）——<ul>
@@ -54,7 +36,11 @@
     
     <summary type="html">
     
-      &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/12/
+      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修正：&lt;/p&gt;
+&lt;p&gt;发布类——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;博客（主页）——&lt;ul&gt;
+&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
     
     </summary>
     
@@ -72,26 +58,31 @@
     <link href="http://cpxxpc.com/2017/01/08/D1/"/>
     <id>http://cpxxpc.com/2017/01/08/D1/</id>
     <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-09T12:06:48.000Z</updated>
+    <updated>2017-01-09T12:57:28.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。</p>
 <p>作出这样的决定，并非一时冲动，而是基于以下几点的考虑—</p>
 <ul>
 <li><p>Hexo深浅适度，既可满足我对DIY自我构建的需求，又不至于太过艰深。综合对比，Wordpress臃肿且缺乏自我探索的成就感，Jekyll相对于我又显得过于繁琐且艰深（原Jekyll站其实算不上什么自我构建），而Hexo体量轻巧又可激发我适度探索，且有Next这类精致主题加持，自然正合我意。</p>
 </li>
-<li><p>Hexo原始古朴，正适合自由的“随处写”，极客的“集中发”。相比过往的随时随地写后即时发布，这种貌似“原始”的方式更能激发我找到写字的本原感觉与发布/维护的成就感，其实，这才是端正的写博态度（随写随发应该更类似于微博的姿态）。<strong>随处书写，本地管理，远端呈现</strong>，这是多么回归本真的写博体验啊！（具体的写作/发布细节调整，后续专文详述）</p>
+<li><p>Hexo原始古朴，正适合自由的“随处写”，极客的“集中发”。相比过往的随时随地写后即时发布，这种貌似“原始”的方式更能激发我找到写字的本原感觉与发布/维护的成就感，其实，这才是端正的写博态度（随写随发应该更类似于微博的姿态）。<strong>随处书写，本地管理，远端呈现</strong>，这是多么回归本真的写博体验啊！（具体的写作/发布细节调整，后续专文详述）<a id="more"></a></p>
 </li>
 <li><p>至于Hexo与Github结合后的更多细微优劣，还待今后慢慢体会。</p>
 </li>
 </ul>
-<p>由于仍然基于Github这方“热土”，仅仅架构内核与构建方式发生了变化，所以本次改动算不上迭代式的大变化；原Jekyll站已暂停更新，以jekyll.cpxxpc.com地址作以留存。</p>
+<p>由于仍然基于Github这方“热土”，仅仅架构内核与构建方式发生了变化，所以本次改动算不上迭代式的大变化；原Jekyll站已暂停更新，以 jekyll.cpxxpc.com 地址作以留存。</p>
 <p>本文作为2017开篇日志，同时也是新模式下发布的第一文，顺便纪念下！</p>
-<p>170109 PS：为追求更稳定的访问效果，也为了尝试下通过Git同步发布至不同服务商，现已引入Coding与Github双轨发布，并已暂定以Coding为主（绑定主域名），Github为辅（绑定辅助域名 hexo.cpxxpc.com），特此标记。</p>
+<p>PS：为追求更稳定的访问效果，也为了尝试下通过Git同步发布至不同服务商，现已引入Coding与Github双轨发布，并已暂定以Coding为主（绑定主域名），Github为辅（绑定辅助域名 hexo.cpxxpc.com），特此标记。（170109补注）</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。
+      &lt;p&gt;近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。&lt;/p&gt;
+&lt;p&gt;作出这样的决定，并非一时冲动，而是基于以下几点的考虑—&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hexo深浅适度，既可满足我对DIY自我构建的需求，又不至于太过艰深。综合对比，Wordpress臃肿且缺乏自我探索的成就感，Jekyll相对于我又显得过于繁琐且艰深（原Jekyll站其实算不上什么自我构建），而Hexo体量轻巧又可激发我适度探索，且有Next这类精致主题加持，自然正合我意。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hexo原始古朴，正适合自由的“随处写”，极客的“集中发”。相比过往的随时随地写后即时发布，这种貌似“原始”的方式更能激发我找到写字的本原感觉与发布/维护的成就感，其实，这才是端正的写博态度（随写随发应该更类似于微博的姿态）。&lt;strong&gt;随处书写，本地管理，远端呈现&lt;/strong&gt;，这是多么回归本真的写博体验啊！（具体的写作/发布细节调整，后续专文详述）
     
     </summary>
     
@@ -136,12 +127,12 @@
     <link href="http://cpxxpc.com/2016/12/28/A1/"/>
     <id>http://cpxxpc.com/2016/12/28/A1/</id>
     <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:41.000Z</updated>
+    <updated>2017-01-09T12:41:46.000Z</updated>
     
     <content type="html"><![CDATA[<p>房定就好，后续的一步步来；</p>
 <p>工作顺心就好，至于定级、升职、分差等不必多思；</p>
 <p>手环用上就好，能监督多动些、早起些就不虚此物；</p>
-<p>母健乃及全家健最重要，此真真是值得用心呵护、用情感悟的！！</p>
+<p>母健乃及全家健最重要，此真真是值得用心呵护、用情感悟的！！<a id="more"></a></p>
 <p><img src="http://image.cpxxpc.com/hehu.jpg" alt=""></p>
 ]]></content>
     
@@ -150,8 +141,7 @@
       &lt;p&gt;房定就好，后续的一步步来；&lt;/p&gt;
 &lt;p&gt;工作顺心就好，至于定级、升职、分差等不必多思；&lt;/p&gt;
 &lt;p&gt;手环用上就好，能监督多动些、早起些就不虚此物；&lt;/p&gt;
-&lt;p&gt;母健乃及全家健最重要，此真真是值得用心呵护、用情感悟的！！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://
+&lt;p&gt;母健乃及全家健最重要，此真真是值得用心呵护、用情感悟的！！
     
     </summary>
     
@@ -195,12 +185,12 @@
     <link href="http://cpxxpc.com/2016/12/16/A1/"/>
     <id>http://cpxxpc.com/2016/12/16/A1/</id>
     <published>2016-12-15T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:38.000Z</updated>
+    <updated>2017-01-09T12:41:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>半月选房终定房，选定新家心安定。</p>
 <p>换房为使生更优，不为火来不为它。</p>
 <p>豁达心胸当自省，天高云淡莫自扰。</p>
-<p>定房小语闲一首，关照心境勿迷失。</p>
+<p>定房小语闲一首，关照心境勿迷失。<a id="more"></a></p>
 <p><img src="http://image.cpxxpc.com/dingfang.jpg" alt=""></p>
 ]]></content>
     
@@ -209,8 +199,7 @@
       &lt;p&gt;半月选房终定房，选定新家心安定。&lt;/p&gt;
 &lt;p&gt;换房为使生更优，不为火来不为它。&lt;/p&gt;
 &lt;p&gt;豁达心胸当自省，天高云淡莫自扰。&lt;/p&gt;
-&lt;p&gt;定房小语闲一首，关照心境勿迷失。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://image.cpxxpc.com/dingfan
+&lt;p&gt;定房小语闲一首，关照心境勿迷失。
     
     </summary>
     
@@ -226,12 +215,12 @@
     <link href="http://cpxxpc.com/2016/12/08/A2/"/>
     <id>http://cpxxpc.com/2016/12/08/A2/</id>
     <published>2016-12-07T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:33.000Z</updated>
+    <updated>2017-01-09T12:42:02.000Z</updated>
     
     <content type="html"><![CDATA[<p>常怀感恩，</p>
 <p>不患得失；</p>
 <p>舒缓心境，</p>
-<p>坦向明晨。</p>
+<p>坦向明晨。<a id="more"></a></p>
 <p><img src="http://image.cpxxpc.com/zuodian.jpg" alt=""></p>
 ]]></content>
     
@@ -240,9 +229,7 @@
       &lt;p&gt;常怀感恩，&lt;/p&gt;
 &lt;p&gt;不患得失；&lt;/p&gt;
 &lt;p&gt;舒缓心境，&lt;/p&gt;
-&lt;p&gt;坦向明晨。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://image.cpxxpc.com/zuodian.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
+&lt;p&gt;坦向明晨。
     
     </summary>
     
@@ -339,7 +326,7 @@
     <link href="http://cpxxpc.com/2016/12/02/D1/"/>
     <id>http://cpxxpc.com/2016/12/02/D1/</id>
     <published>2016-12-01T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:17.000Z</updated>
+    <updated>2017-01-09T12:42:18.000Z</updated>
     
     <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>，以下为进一步调整后的第三版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
@@ -352,7 +339,7 @@
 <p>摘录类（片段）——</p>
 <ul>
 <li>移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按<a href="http://sspai.com/35281" target="_blank" rel="external">此文</a>设置）</li>
-<li>电脑端：通过印象笔记添加至相应笔记中</li>
+<li>电脑端：通过印象笔记添加至相应笔记中<a id="more"></a></li>
 </ul>
 <p>笔记类——</p>
 <ul>
@@ -374,7 +361,17 @@
     <summary type="html">
     
       &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;，以下为进一步调整后的第三版各领域具体配置与流程安排：&lt;/p&gt;
-&lt;p&gt;摘
+&lt;p&gt;摘录类（全文）——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;印象笔记&lt;/strong&gt;（总库）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instapaper&lt;/strong&gt;（稍后读，加星入印象笔记）&lt;/li&gt;
+&lt;li&gt;Safari阅读列表（稍后读，必要项入印象笔记）&lt;/li&gt;
+&lt;li&gt;微信收藏（特用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;摘录类（片段）——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按&lt;a href=&quot;http://sspai.com/35281&quot;&gt;此文&lt;/a&gt;设置）&lt;/li&gt;
+&lt;li&gt;电脑端：通过印象笔记添加至相应笔记中
     
     </summary>
     
@@ -420,11 +417,11 @@
     <link href="http://cpxxpc.com/2016/11/26/D1/"/>
     <id>http://cpxxpc.com/2016/11/26/D1/</id>
     <published>2016-11-25T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:11.000Z</updated>
+    <updated>2017-01-09T12:42:48.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，将“麦收客”的主题由No.7更改为Akina，并完成了对主题代码及文章排版的适度调整；至今日，新主题终于可以正式“接班”了。</p>
 <p>主题虽改，但“平平淡淡，简简单单”的立足点不会改，希望这些改与不改能够继续伴随我走过这段特殊的人生岁月。</p>
-<p>以下为新旧主题的对比截图，谨留作存照。</p>
+<p>以下为新旧主题的对比截图，谨留作存照。<a id="more"></a></p>
 <p>旧主题——</p>
 <p><img src="http://image.cpxxpc.com/zhuti1.png" alt=""></p>
 <p>新主题——</p>
@@ -435,7 +432,7 @@
     
       &lt;p&gt;近日，将“麦收客”的主题由No.7更改为Akina，并完成了对主题代码及文章排版的适度调整；至今日，新主题终于可以正式“接班”了。&lt;/p&gt;
 &lt;p&gt;主题虽改，但“平平淡淡，简简单单”的立足点不会改，希望这些改与不改能够继续伴随我走过这段特殊的人生岁月。&lt;/p&gt;
-&lt;p&gt;以下为新
+&lt;p&gt;以下为新旧主题的对比截图，谨留作存照。
     
     </summary>
     
@@ -453,11 +450,11 @@
     <link href="http://cpxxpc.com/2016/11/01/A1/"/>
     <id>http://cpxxpc.com/2016/11/01/A1/</id>
     <published>2016-10-31T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:08.000Z</updated>
+    <updated>2017-01-09T12:43:45.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天，在经历两个多月请假休养后终于恢复上班，却不得不为应对“巴巴变”的突然关站（通知为至11月31日，实际应为11月30日）而进行了大量的迁移工作，到现在已基本完成了向网易相册的补遗迁移及博文内链接修正，虽还粗糙些，但总算是将损失尽量降到了最低。</p>
 <p><img src="http://image.cpxxpc.com/bababian1.png" alt=""></p>
-<p>说起“巴巴变”，在与之相伴的九年多时光中，很多时候是作为我的主力网络相册及博文关联相册使用的，虽然其间曾偶尔迁移至其他网络相册，虽然博客图片外链早已改至他处，但无论如何，“巴巴变”作为主力网络相册的地位始终没有变过，因为在它类似于Flickr的朴素界面下，存储着我关于这十年的太多记忆、太多情感，承载着这些的“巴巴变”，可以说早已不仅仅是一个普通的网络相册了！关于这些情感，一言难尽，就不多说了……</p>
+<p>说起“巴巴变”，在与之相伴的九年多时光中，很多时候是作为我的主力网络相册及博文关联相册使用的，虽然其间曾偶尔迁移至其他网络相册，虽然博客图片外链早已改至他处，但无论如何，“巴巴变”作为主力网络相册的地位始终没有变过，因为在它类似于Flickr的朴素界面下，存储着我关于这十年的太多记忆、太多情感，承载着这些的“巴巴变”，可以说早已不仅仅是一个普通的网络相册了！关于这些情感，一言难尽，就不多说了……<a id="more"></a></p>
 <p>在这即将告别“巴巴变”的时刻，就以下面的几幅截图留作一份纪念，为了这曾经的时光，为了这忘却的记忆！！</p>
 <p><img src="http://image.cpxxpc.com/bababian2.png" alt=""></p>
 <p><img src="http://image.cpxxpc.com/bababian3.png" alt=""></p>
@@ -466,7 +463,8 @@
     <summary type="html">
     
       &lt;p&gt;今天，在经历两个多月请假休养后终于恢复上班，却不得不为应对“巴巴变”的突然关站（通知为至11月31日，实际应为11月30日）而进行了大量的迁移工作，到现在已基本完成了向网易相册的补遗迁移及博文内链接修正，虽还粗糙些，但总算是将损失尽量降到了最低。&lt;/p&gt;
-&lt;p&gt;&lt;img s
+&lt;p&gt;&lt;img src=&quot;http://image.cpxxpc.com/bababian1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;说起“巴巴变”，在与之相伴的九年多时光中，很多时候是作为我的主力网络相册及博文关联相册使用的，虽然其间曾偶尔迁移至其他网络相册，虽然博客图片外链早已改至他处，但无论如何，“巴巴变”作为主力网络相册的地位始终没有变过，因为在它类似于Flickr的朴素界面下，存储着我关于这十年的太多记忆、太多情感，承载着这些的“巴巴变”，可以说早已不仅仅是一个普通的网络相册了！关于这些情感，一言难尽，就不多说了……
     
     </summary>
     
@@ -534,7 +532,7 @@
     <link href="http://cpxxpc.com/2016/08/29/D1/"/>
     <id>http://cpxxpc.com/2016/08/29/D1/</id>
     <published>2016-08-28T16:00:00.000Z</published>
-    <updated>2017-01-07T08:28:54.000Z</updated>
+    <updated>2017-01-09T12:43:58.000Z</updated>
     
     <content type="html"><![CDATA[<p>原版见<a href="http://cpxxpc.com/2016/07/06/D1">此文</a>，以下为完善后的新版各领域具体配置与流程安排：</p>
 <p>摘录类（全文）——</p>
@@ -547,7 +545,7 @@
 <p>摘录类（片段）——</p>
 <ul>
 <li>移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按<a href="http://sspai.com/35281" target="_blank" rel="external">此文</a>设置）</li>
-<li>电脑端：通过Command-C推送至移动端，再通过移动端工作流完成整理</li>
+<li>电脑端：通过Command-C推送至移动端，再通过移动端工作流完成整理<a id="more"></a></li>
 </ul>
 <p>笔记类——</p>
 <ul>
@@ -572,7 +570,14 @@
 &lt;p&gt;摘录类（全文）——&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;印象笔记&lt;/strong&gt;（总库）&lt;/li&gt;
-&lt;
+&lt;li&gt;&lt;strong&gt;Instapaper&lt;/strong&gt;（稍后读，加星入印象笔记）&lt;/li&gt;
+&lt;li&gt;Safari阅读列表（稍后读，必要项入印象笔记）&lt;/li&gt;
+&lt;li&gt;微信收藏（特用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;摘录类（片段）——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;移动端：复制后通过Workflow预置工作流添加至印象笔记指定笔记中（按&lt;a href=&quot;http://sspai.com/35281&quot;&gt;此文&lt;/a&gt;设置）&lt;/li&gt;
+&lt;li&gt;电脑端：通过Command-C推送至移动端，再通过移动端工作流完成整理
     
     </summary>
     
