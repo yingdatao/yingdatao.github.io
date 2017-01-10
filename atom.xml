@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-09T12:57:08.000Z</updated>
+  <updated>2017-01-10T06:30:49.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -16,18 +16,60 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>写博十年感言</title>
+    <link href="http://cpxxpc.com/2017/01/10/D1/"/>
+    <id>http://cpxxpc.com/2017/01/10/D1/</id>
+    <published>2017-01-09T16:00:00.000Z</published>
+    <updated>2017-01-10T06:30:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天，在完善hexo站的“建站时间”这一细节时，才发觉2007-2017，我的写博历程已走过了近十个年头。从“网行志”开始（2007.7-2010.9，原域名webgol.cn、webgol.org，现镜像地址webgol.cpxxpc.com，已停止更新，部分随笔类日志归入本博客），经Qzone等个人空间（基本均已不再做日常更新，部分日志归入本博客），到早期的个人博客“麦收客”（即“史前纪”），直至更新至今的本博客（2012.4建站，定位为个人生活博客兼个人主页，具体变迁历程见下方列表），近十年的时间，陆陆续续写了近500篇各类日志（早期侧重于网络技术类，后期侧重于生活随笔类）。虽品相参差不齐且少有优品，但好在始终坚持原创，每一笔均来自于个人尝试与体悟；早期坚持规律的高密度更新，后期则随性而为、随心而写，其实跳脱出来看，后者才是个人博客的应有姿态，才是符合自我心性的自然之笔，才是可持续发展的长久之计啊！</p>
+<p>好了，更多的感悟就不多说了，以下附上个人生活博客阶段（即本博客）的变迁历程（2012.4.1-2016.12.3，此后采用<em>本地管理+远端呈现</em>模式，不再细分）——</p>
+<ul>
+<li>史前纪：@blogbus  <a href="http://cpxxpc.blogbus.com" target="_blank" rel="external">http://cpxxpc.blogbus.com</a> （2008.11~2009.7；近九个月；曾绑定域名<del>www.webgol.cn</del>，后迁至独立空间，绑定域名<del>cpxxpc.cn</del>，现仅余部分日志存底）</li>
+<li>第一纪：@点点网 <del><a href="http://www.smileso.tk" target="_blank" rel="external">http://www.smileso.tk</a></del> (2012.4.1-5.6，一个多月；原始链接地址为 <a href="http://smileso.diandian.com" target="_blank" rel="external">http://smileso.diandian.com</a> ；定名为“麦收客”）</li>
+<li>第二纪：@独立空间/BlogMI  <del><a href="http://www.smileso.net" target="_blank" rel="external">http://www.smileso.net</a></del> （2012.5.7-6.3，不足一个月；仍名为“麦收客”）</li>
+<li>第三纪：@不老歌 <a href="http://bulaoge.net/?smileso" target="_blank" rel="external">http://bulaoge.net/?smileso</a> （2012.6.4-2013.3.15，九个多月；仍名为“麦收客”；期间分化出@不老歌的图志，@Lofter的随拍、随读等分站，存底由此总导航页可入<del><a href="http://smileso.lofter.com" target="_blank" rel="external">http://smileso.lofter.com</a></del>）</li>
+<li>第四纪：@豆瓣  <a href="http://www.douban.com/people/smileso" target="_blank" rel="external">http://www.douban.com/people/smileso</a> （2013.3.16-5.10，不足二个月；取消“麦收客”名称，各分站大一统于一处）</li>
+<li>第五纪：@Dropbox+Farbox（DF） <del><a href="http://smileso.me" target="_blank" rel="external">http://smileso.me</a></del> （2013.5.10~8.14，三个多月；仍取消“麦收客”名称，原始链接地址为 <a href="http://smileso.farbox.com" target="_blank" rel="external">http://smileso.farbox.com</a> ）</li>
+<li>第六纪：@独立空间/Wordpress  <del><a href="http://smileso.me" target="_blank" rel="external">http://smileso.me</a></del> （2013.8.14~2014.1.31，近六个月；恢复“麦收客”名称）</li>
+<li>第七纪：@网易博客  <a href="http://cpxxpc.blog.163.com" target="_blank" rel="external">http://cpxxpc.blog.163.com</a> （2014.2.1~6.30，近5个月；更名为“CpxxpC的博客”）</li>
+<li>第八纪：@独立空间/Typecho  <del><a href="http://blog.cpxxpc.com" target="_blank" rel="external">http://blog.cpxxpc.com</a></del> （2014.7.1~8.12，1个多月；仍名为“CpxxpC的博客”，纳入CpxxpC的个人主页体系）</li>
+<li>第九纪：@Lofter  <del><a href="http://cpxxpc.com">http://cpxxpc.com</a></del> （2014.8.13~11.28，三个多月；原始链接地址为 <a href="http://cpxxpc.lofter.com" target="_blank" rel="external">http://cpxxpc.lofter.com</a> ；顺应“新生”，融合个人主页+博客功能迁入lofter，取消命名）</li>
+<li>第十纪：@Farbox  <del><a href="http://blog.cpxxpc.com" target="_blank" rel="external">http://blog.cpxxpc.com</a></del> （2014.11.29~2015.12.11，一年多；原始链接地址为 <a href="http://cpxxpc.farbox.com" target="_blank" rel="external">http://cpxxpc.farbox.com</a> ；随总页迁回farbox，名为“CpxxpC的博客”）</li>
+<li>第十一纪：@Lofter  <del><a href="http://cpxxpc.com">http://cpxxpc.com</a></del> （2015.12.11~2016.5.20，近半年；原始链接地址为 <a href="http://cpxxpc.lofter.com" target="_blank" rel="external">http://cpxxpc.lofter.com</a> ；腿伤其间，融合个人主页+博客功能迁回lofter，取消命名）</li>
+<li>第十二纪：@Farbox  <del><a href="http://blog.cpxxpc.com" target="_blank" rel="external">http://blog.cpxxpc.com</a></del> （2016.5.20~6.9，不足一月；原始链接地址为 <a href="http://cpxxpc.farbox.com" target="_blank" rel="external">http://cpxxpc.farbox.com</a> ；再随总页迁回farbox，仍名为“CpxxpC的博客”；现仍可访问，已停止更新）</li>
+<li>第十三纪：@独立空间/Wordpress  <del><a href="http://cpxxpc.com">http://cpxxpc.com</a></del> （2016.6.9~12.3；近六个月；7.18恢复曾用名“麦收客”；12.3留存版迁至NAS01，现已停止更新，留存地址为 <a href="http://wp2.cpxxpc.com" target="_blank" rel="external">http://wp2.cpxxpc.com</a> ）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天，在完善hexo站的“建站时间”这一细节时，才发觉2007-2017，我的写博历程已走过了近十个年头。从“网行志”开始（2007.7-2010.9，原域名webgol.cn、webgol.org，现镜像地址webgol.cpxxpc.com，已停止更新，部分随笔类日志归
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>摘录/笔记/发布，各领域新调整（第三版局部修正）</title>
     <link href="http://cpxxpc.com/2017/01/08/D2/"/>
     <id>http://cpxxpc.com/2017/01/08/D2/</id>
     <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-09T12:57:08.000Z</updated>
+    <updated>2017-01-10T01:04:23.000Z</updated>
     
     <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修正：</p>
 <p>发布类——</p>
 <ul>
 <li>博客（主页）——<ul>
-<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写，Mac05电脑端发布      </li>
-<li>电脑端（侧重图文类）：<strong>Simplenote</strong>或<strong>MarkEditor</strong>书写（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
+<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
+<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
 </ul>
 </li>
 <li>微博：Twitter（移动端）、官网页面（电脑端）</li>
@@ -58,7 +100,7 @@
     <link href="http://cpxxpc.com/2017/01/08/D1/"/>
     <id>http://cpxxpc.com/2017/01/08/D1/</id>
     <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-09T13:13:58.000Z</updated>
+    <updated>2017-01-10T06:30:18.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。</p>
 <p>作出这样的决定，并非一时冲动，而是基于以下几点的考虑—</p>
@@ -72,7 +114,7 @@
 </ul>
 <p>由于仍然基于Github这方“热土”，仅仅架构内核与构建方式发生了变化，所以本次改动算不上迭代式的大变化；原Jekyll站已暂停更新，以 jekyll.cpxxpc.com 地址作以留存。<a id="more"></a></p>
 <p>本文作为2017开篇日志，同时也是新模式下发布的第一文，顺便纪念下！</p>
-<p>PS：为追求更稳定的访问效果，也为了尝试下通过Git同步发布至不同服务商，现已引入Coding与Github双轨发布，并已暂定以Coding为主（绑定主域名），Github为辅（绑定辅助域名 hexo.cpxxpc.com），特此标记。（170109补注）</p>
+<p>PS：为追求更稳定的访问效果，也为了尝试下通过Git同步发布至不同服务商，现已引入Github与Coding双轨发布，并已暂定以Github为主（绑定主域名），Coding为辅（绑定辅助域名 hexo.cpxxpc.com），特此标记。（170109补注）</p>
 ]]></content>
     
     <summary type="html">
@@ -216,6 +258,32 @@
   </entry>
   
   <entry>
+    <title>趁着睡意未全失，尽快正常睡下吧！</title>
+    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
+    <id>http://cpxxpc.com/2016/12/08/A1/</id>
+    <published>2016-12-07T16:00:00.000Z</published>
+    <updated>2017-01-07T08:29:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
+<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
     <title>暖心小语</title>
     <link href="http://cpxxpc.com/2016/12/08/A2/"/>
     <id>http://cpxxpc.com/2016/12/08/A2/</id>
@@ -235,32 +303,6 @@
 &lt;p&gt;不患得失；&lt;/p&gt;
 &lt;p&gt;舒缓心境，&lt;/p&gt;
 &lt;p&gt;坦向明晨。
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>趁着睡意未全失，尽快正常睡下吧！</title>
-    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
-    <id>http://cpxxpc.com/2016/12/08/A1/</id>
-    <published>2016-12-07T16:00:00.000Z</published>
-    <updated>2017-01-07T08:29:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
-<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
-
     
     </summary>
     
@@ -652,36 +694,6 @@
     </summary>
     
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>“别和命运较劲，别和自己过不去”</title>
-    <link href="http://cpxxpc.com/2016/07/28/A1/"/>
-    <id>http://cpxxpc.com/2016/07/28/A1/</id>
-    <published>2016-07-27T16:00:00.000Z</published>
-    <updated>2017-01-07T08:28:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>来源：原创</p>
-<p>缘起：针对目前心态与做法，悟出此理。</p>
-<p>延展：希望切实落实到今后的想法与行动中，助我更为平和的度过这一特殊时期。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;来源：原创&lt;/p&gt;
-&lt;p&gt;缘起：针对目前心态与做法，悟出此理。&lt;/p&gt;
-&lt;p&gt;延展：希望切实落实到今后的想法与行动中，助我更为平和的度过这一特殊时期。&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-      <category term="语丝" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/%E8%AF%AD%E4%B8%9D/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
