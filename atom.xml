@@ -123,44 +123,6 @@
   </entry>
   
   <entry>
-    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
-    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
-    <id>http://cpxxpc.com/2017/01/08/D2/</id>
-    <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-11T06:00:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
-<p>发布类——</p>
-<ul>
-<li>博客（主页）——<ul>
-<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
-<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
-</ul>
-</li>
-<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
-&lt;p&gt;发布类——&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;博客（主页）——&lt;ul&gt;
-&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo+Git新架构，写博新体验</title>
     <link href="http://cpxxpc.com/2017/01/08/D1/"/>
     <id>http://cpxxpc.com/2017/01/08/D1/</id>
@@ -201,6 +163,44 @@
   </entry>
   
   <entry>
+    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
+    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
+    <id>http://cpxxpc.com/2017/01/08/D2/</id>
+    <published>2017-01-07T16:00:00.000Z</published>
+    <updated>2017-01-11T06:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
+<p>发布类——</p>
+<ul>
+<li>博客（主页）——<ul>
+<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
+<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
+</ul>
+</li>
+<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
+&lt;p&gt;发布类——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;博客（主页）——&lt;ul&gt;
+&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>nn成长小记（161229）</title>
     <link href="http://cpxxpc.com/2016/12/29/B1/"/>
     <id>http://cpxxpc.com/2016/12/29/B1/</id>
@@ -221,6 +221,34 @@
     </summary>
     
       <category term="生活" scheme="http://cpxxpc.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主页/博客区隔调整</title>
+    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
+    <id>http://cpxxpc.com/2016/12/28/D1/</id>
+    <published>2016-12-27T16:00:00.000Z</published>
+    <updated>2017-01-11T00:39:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
+<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
+<p>低调有情致，真我空间也~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
+&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
@@ -251,34 +279,6 @@
     </summary>
     
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>主页/博客区隔调整</title>
-    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
-    <id>http://cpxxpc.com/2016/12/28/D1/</id>
-    <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-11T00:39:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
-<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
-<p>低调有情致，真我空间也~~</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
-&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
