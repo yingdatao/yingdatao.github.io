@@ -122,11 +122,11 @@
     <link href="http://cpxxpc.com/2017/01/11/A1/"/>
     <id>http://cpxxpc.com/2017/01/11/A1/</id>
     <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-01-11T06:01:00.000Z</updated>
+    <updated>2017-01-15T05:49:15.000Z</updated>
     
-    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话，正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
+    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
 <blockquote>
-<p><strong>写博三阶段：</strong></p>
+<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
 <p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
 <p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
 <p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
@@ -135,10 +135,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;昨天，偶然在网上看到了一段话，正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;写博三阶段：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;第一阶段，刚接触Blog
+      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
     
     </summary>
     
