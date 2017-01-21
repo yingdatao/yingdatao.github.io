@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-21T04:54:02.000Z</updated>
+  <updated>2017-01-21T05:16:55.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://cpxxpc.com/2017/01/21/D1/"/>
     <id>http://cpxxpc.com/2017/01/21/D1/</id>
     <published>2017-01-20T16:00:00.000Z</published>
-    <updated>2017-01-21T04:54:02.000Z</updated>
+    <updated>2017-01-21T05:16:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>、<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>，以下为全新调整后的第四版。</p>
-<p>PS：此版通过思维导图工具MindNode编制并导出，导图原版可<a href="https://my.mindnode.com/SQkenQjoXytswTHspGrAXN7q2cZpyEfxPWDhZEac#59.5,47.0,2" target="_blank" rel="external">点此</a>浏览。<a id="more"></a></p>
-<h3 id="【摘录类】"><a href="#【摘录类】" class="headerlink" title="【摘录类】"></a>【摘录类】</h3><h4 id="全文"><a href="#全文" class="headerlink" title="[全文]"></a>[全文]</h4><h5 id="移动端"><a href="#移动端" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<p>PS：此版通过思维导图工具MindNode编制并导出，导图原版可<a href="https://my.mindnode.com/gdzJAGiRSeqTwWpMH4qKjdUK97Drkps4PYnWxpzC#117.5,-88.0,2" target="_blank" rel="external">点此</a>浏览。<a id="more"></a></p>
+<h3 id="摘录类"><a href="#摘录类" class="headerlink" title="[摘录类]"></a>[摘录类]</h3><h4 id="全文"><a href="#全文" class="headerlink" title="[全文]"></a>[全文]</h4><h5 id="移动端"><a href="#移动端" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><p><strong>Instapaper</strong><br>app+插件</p>
 </li>
 <li><p>Safari阅读列表</p>
@@ -52,7 +52,7 @@
 </ul>
 <h4 id="图片"><a href="#图片" class="headerlink" title="[图片]"></a>[图片]</h4><h5 id="移动端-2"><a href="#移动端-2" class="headerlink" title="移动端"></a>移动端</h5><p>保存至相册→通过DS file上传至NAS01</p>
 <h5 id="Mac端-PC端"><a href="#Mac端-PC端" class="headerlink" title="Mac端+PC端"></a>Mac端+PC端</h5><p>保存至本地图摘文件夹→通过Cloud Station Drive同步至NAS01</p>
-<h3 id="【笔记类】"><a href="#【笔记类】" class="headerlink" title="【笔记类】"></a>【笔记类】</h3><h5 id="移动端-3"><a href="#移动端-3" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<h3 id="笔记类"><a href="#笔记类" class="headerlink" title="[笔记类]"></a>[笔记类]</h3><h5 id="移动端-3"><a href="#移动端-3" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><p><strong>Bear</strong></p>
 <p>自语通过Workflow预置工作流添加</p>
 </li>
@@ -78,10 +78,8 @@
 <p>通过NAS01同步与备份</p>
 </li>
 </ul>
-<h3 id="【发布类】"><a href="#【发布类】" class="headerlink" title="【发布类】"></a>【发布类】</h3><h4 id="博客"><a href="#博客" class="headerlink" title="[博客]"></a>[博客]</h4><h5 id="移动端-4"><a href="#移动端-4" class="headerlink" title="移动端"></a>移动端</h5><ul>
-<li><p><strong>Bear</strong><br>书写后同步至Mac端或由Simplenote转存同步至PC端→MarkEditor格式化并通过Cloud Station Drive同步→Mac05命令行发布  </p>
-<p>PS：侧重文字类</p>
-</li>
+<h3 id="发布类"><a href="#发布类" class="headerlink" title="[发布类]"></a>[发布类]</h3><h4 id="博客"><a href="#博客" class="headerlink" title="[博客]"></a>[博客]</h4><h5 id="移动端-4"><a href="#移动端-4" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<li><strong>Bear</strong><br>书写后同步至Mac端或由Simplenote转存同步至PC端→MarkEditor格式化并通过Cloud Station Drive同步→Mac05命令行发布（PS：侧重文字类）</li>
 </ul>
 <h5 id="Mac端-3"><a href="#Mac端-3" class="headerlink" title="Mac端"></a>Mac端</h5><ul>
 <li><p><strong>Bear</strong><br>书写后通过MarkEditor格式化并通过Cloud Station Drive同步（配图由七牛外链并备份至NAS01）→Mac05命令行发布</p>
@@ -100,7 +98,7 @@
     <summary type="html">
     
       &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;，以下为全新调整后的第四版。&lt;/p&gt;
-&lt;p&gt;PS：此版通过思维导图工具MindNode编制并导出，导图原版可&lt;a href=&quot;https://my.mindnode.com/SQkenQjoXytswTHspGrAXN7q2cZpyEfxPWDhZEac#59.5,47.0,2&quot;&gt;点此&lt;/a&gt;浏览。
+&lt;p&gt;PS：此版通过思维导图工具MindNode编制并导出，导图原版可&lt;a href=&quot;https://my.mindnode.com/gdzJAGiRSeqTwWpMH4qKjdUK97Drkps4PYnWxpzC#117.5,-88.0,2&quot;&gt;点此&lt;/a&gt;浏览。
     
     </summary>
     
@@ -348,6 +346,44 @@
   </entry>
   
   <entry>
+    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
+    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
+    <id>http://cpxxpc.com/2017/01/08/D2/</id>
+    <published>2017-01-07T16:00:00.000Z</published>
+    <updated>2017-01-11T06:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
+<p>发布类——</p>
+<ul>
+<li>博客（主页）——<ul>
+<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
+<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
+</ul>
+</li>
+<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
+&lt;p&gt;发布类——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;博客（主页）——&lt;ul&gt;
+&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo+Git新架构，写博新体验</title>
     <link href="http://cpxxpc.com/2017/01/08/D1/"/>
     <id>http://cpxxpc.com/2017/01/08/D1/</id>
@@ -375,44 +411,6 @@
     
       &lt;p&gt;近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番Hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。&lt;/p&gt;
 &lt;p&gt;作出这样的决定，并非一时冲动，而是基于以下几点的考虑—
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
-    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
-    <id>http://cpxxpc.com/2017/01/08/D2/</id>
-    <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-11T06:00:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
-<p>发布类——</p>
-<ul>
-<li>博客（主页）——<ul>
-<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
-<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
-</ul>
-</li>
-<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
-&lt;p&gt;发布类——&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;博客（主页）——&lt;ul&gt;
-&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
     
     </summary>
     
