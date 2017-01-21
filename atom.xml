@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-01-21T05:16:55.000Z</updated>
+  <updated>2017-01-21T11:43:48.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -16,15 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>简单的小满足</title>
+    <link href="http://cpxxpc.com/2017/01/21/A1/"/>
+    <id>http://cpxxpc.com/2017/01/21/A1/</id>
+    <published>2017-01-20T16:00:00.000Z</published>
+    <updated>2017-01-21T11:43:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。</p>
+<p>发现即拥有，能享受这简单的小满足，生活在这种小确幸式的幸福中，足矣！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。&lt;/p&gt;
+&lt;p&gt;发现即拥有，能享受这简单的小满足，生活在这
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>摘录/笔记/发布全流程（第四版）</title>
     <link href="http://cpxxpc.com/2017/01/21/D1/"/>
     <id>http://cpxxpc.com/2017/01/21/D1/</id>
     <published>2017-01-20T16:00:00.000Z</published>
-    <updated>2017-01-21T05:16:55.000Z</updated>
+    <updated>2017-01-21T11:47:08.000Z</updated>
     
     <content type="html"><![CDATA[<p>此前<a href="http://cpxxpc.com/2016/07/06/D1">第一版</a>、<a href="http://cpxxpc.com/2016/08/29/D1">第二版</a>、<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>，以下为全新调整后的第四版。</p>
-<p>PS：此版通过思维导图工具MindNode编制并导出，导图原版可<a href="https://my.mindnode.com/gdzJAGiRSeqTwWpMH4qKjdUK97Drkps4PYnWxpzC#117.5,-88.0,2" target="_blank" rel="external">点此</a>浏览。<a id="more"></a></p>
-<h3 id="摘录类"><a href="#摘录类" class="headerlink" title="[摘录类]"></a>[摘录类]</h3><h4 id="全文"><a href="#全文" class="headerlink" title="[全文]"></a>[全文]</h4><h5 id="移动端"><a href="#移动端" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<p>PS：此版通过思维导图工具MindNode编制并导出，导图原版可<a href="https://my.mindnode.com/EeobsVcQvRtapag5i6MTsgcQ69F81CNqxr6gadpw#59.5,47.0,2" target="_blank" rel="external">点此</a>浏览。<a id="more"></a></p>
+<h3 id="A-摘录类"><a href="#A-摘录类" class="headerlink" title="A 摘录类"></a>A 摘录类</h3><h4 id="a-全文摘录"><a href="#a-全文摘录" class="headerlink" title="a 全文摘录"></a>a 全文摘录</h4><h5 id="移动端"><a href="#移动端" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><p><strong>Instapaper</strong><br>app+插件</p>
 </li>
 <li><p>Safari阅读列表</p>
@@ -41,7 +66,7 @@
 <h5 id="PC端"><a href="#PC端" class="headerlink" title="PC端"></a>PC端</h5><ul>
 <li><strong>Instapaper</strong><br>网页+插件</li>
 </ul>
-<h4 id="片段"><a href="#片段" class="headerlink" title="[片段]"></a>[片段]</h4><h5 id="移动端-1"><a href="#移动端-1" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<h4 id="b-片段摘录"><a href="#b-片段摘录" class="headerlink" title="b 片段摘录"></a>b 片段摘录</h4><h5 id="移动端-1"><a href="#移动端-1" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><strong>Bear</strong><br>语丝、留存通过Workflow预置工作流添加；另有书摘、教程直接添加</li>
 </ul>
 <h5 id="Mac端-1"><a href="#Mac端-1" class="headerlink" title="Mac端"></a>Mac端</h5><ul>
@@ -50,11 +75,11 @@
 <h5 id="PC端-1"><a href="#PC端-1" class="headerlink" title="PC端"></a>PC端</h5><ul>
 <li>Simplenote<br>插件采集→同步至移动或Mac端→导入Bear整理</li>
 </ul>
-<h4 id="图片"><a href="#图片" class="headerlink" title="[图片]"></a>[图片]</h4><h5 id="移动端-2"><a href="#移动端-2" class="headerlink" title="移动端"></a>移动端</h5><p>保存至相册→通过DS file上传至NAS01</p>
+<h4 id="c-图片摘录"><a href="#c-图片摘录" class="headerlink" title="c 图片摘录"></a>c 图片摘录</h4><h5 id="移动端-2"><a href="#移动端-2" class="headerlink" title="移动端"></a>移动端</h5><p>保存至相册→通过DS file上传至NAS01</p>
 <h5 id="Mac端-PC端"><a href="#Mac端-PC端" class="headerlink" title="Mac端+PC端"></a>Mac端+PC端</h5><p>保存至本地图摘文件夹→通过Cloud Station Drive同步至NAS01</p>
-<h3 id="笔记类"><a href="#笔记类" class="headerlink" title="[笔记类]"></a>[笔记类]</h3><h5 id="移动端-3"><a href="#移动端-3" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<h3 id="B-笔记类"><a href="#B-笔记类" class="headerlink" title="B 笔记类"></a>B 笔记类</h3><h5 id="移动端-3"><a href="#移动端-3" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><p><strong>Bear</strong></p>
-<p>自语通过Workflow预置工作流添加</p>
+<p>自语、要录通过Workflow预置工作流添加</p>
 </li>
 <li><p><strong>DayOne</strong></p>
 <p>包括日记+随拍；主要通过iPhone04操作</p>
@@ -78,7 +103,7 @@
 <p>通过NAS01同步与备份</p>
 </li>
 </ul>
-<h3 id="发布类"><a href="#发布类" class="headerlink" title="[发布类]"></a>[发布类]</h3><h4 id="博客"><a href="#博客" class="headerlink" title="[博客]"></a>[博客]</h4><h5 id="移动端-4"><a href="#移动端-4" class="headerlink" title="移动端"></a>移动端</h5><ul>
+<h3 id="C-发布类"><a href="#C-发布类" class="headerlink" title="C 发布类"></a>C 发布类</h3><h4 id="a-博客发布"><a href="#a-博客发布" class="headerlink" title="a 博客发布"></a>a 博客发布</h4><h5 id="移动端-4"><a href="#移动端-4" class="headerlink" title="移动端"></a>移动端</h5><ul>
 <li><strong>Bear</strong><br>书写后同步至Mac端或由Simplenote转存同步至PC端→MarkEditor格式化并通过Cloud Station Drive同步→Mac05命令行发布（PS：侧重文字类）</li>
 </ul>
 <h5 id="Mac端-3"><a href="#Mac端-3" class="headerlink" title="Mac端"></a>Mac端</h5><ul>
@@ -90,7 +115,7 @@
 <h5 id="PC端-3"><a href="#PC端-3" class="headerlink" title="PC端"></a>PC端</h5><ul>
 <li><strong>MarkEditor</strong><br>书写后通过Cloud Station Drive同步（配图由七牛外链并备份至NAS01）→Mac05命令行发布</li>
 </ul>
-<h4 id="微博"><a href="#微博" class="headerlink" title="[微博]"></a>[微博]</h4><h5 id="移动端-5"><a href="#移动端-5" class="headerlink" title="移动端"></a>移动端</h5><p>通过Workflow预置工作流（文字类）或客户端（图文类）发布至Twitter→通过IFTTT同步至Weibo</p>
+<h4 id="b-微博发布"><a href="#b-微博发布" class="headerlink" title="b 微博发布"></a>b 微博发布</h4><h5 id="移动端-5"><a href="#移动端-5" class="headerlink" title="移动端"></a>移动端</h5><p>通过Workflow预置工作流（文字类）或客户端（图文类）发布至Twitter→通过IFTTT同步至Weibo</p>
 <h5 id="Mac端-4"><a href="#Mac端-4" class="headerlink" title="Mac端"></a>Mac端</h5><p>通过侧边快捷栏（文字类）或网页（图文类）发布至Twitter→通过IFTTT同步至Weibo</p>
 <h5 id="PC端-4"><a href="#PC端-4" class="headerlink" title="PC端"></a>PC端</h5><p>通过网页发布至Twitter→通过IFTTT同步至Weibo</p>
 ]]></content>
@@ -98,7 +123,7 @@
     <summary type="html">
     
       &lt;p&gt;此前&lt;a href=&quot;http://cpxxpc.com/2016/07/06/D1&quot;&gt;第一版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/08/29/D1&quot;&gt;第二版&lt;/a&gt;、&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;，以下为全新调整后的第四版。&lt;/p&gt;
-&lt;p&gt;PS：此版通过思维导图工具MindNode编制并导出，导图原版可&lt;a href=&quot;https://my.mindnode.com/gdzJAGiRSeqTwWpMH4qKjdUK97Drkps4PYnWxpzC#117.5,-88.0,2&quot;&gt;点此&lt;/a&gt;浏览。
+&lt;p&gt;PS：此版通过思维导图工具MindNode编制并导出，导图原版可&lt;a href=&quot;https://my.mindnode.com/EeobsVcQvRtapag5i6MTsgcQ69F81CNqxr6gadpw#59.5,47.0,2&quot;&gt;点此&lt;/a&gt;浏览。
     
     </summary>
     
@@ -728,39 +753,6 @@
       &lt;p&gt;为了尽量寻求简单、简洁，近日将早已初步构建完成的基于Github+Jekyll的主页（博客）进行了日志补全及细致完善，使之在全免费（包括空间、域名等方面）的前提下实现了高度精简（包括去除了各独立页面及日志标签等），目前已可与现有基于Wordpress的主站并行运作，并计划在一段时间内同步更新，如此”实战“测试后再决定取舍。&lt;/p&gt;
 &lt;p&gt;如果最终扶正此”全免费、高精简“的新主页，势必要对相应的日常发布流程进行必要的调整，外围领域的各页面也要进行必要的调整、精简，这些等待确定后再议不迟。&lt;/p&gt;
 &lt;p&gt;到底是选择&lt;strong&gt;正统的全功能&lt;/strong&gt;，还是&lt;strong&gt;个性的高精简&lt;/strong&gt;，相信不久之后就会有定论的。
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客主题变更</title>
-    <link href="http://cpxxpc.com/2016/11/26/D1/"/>
-    <id>http://cpxxpc.com/2016/11/26/D1/</id>
-    <published>2016-11-25T16:00:00.000Z</published>
-    <updated>2017-01-11T00:38:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近日，将“麦收客”的主题由No.7更改为Akina，并完成了对主题代码及文章排版的适度调整；至今日，新主题终于可以正式“接班”了。</p>
-<p>主题虽改，但“平平淡淡，简简单单”的立足点不会改，希望这些改与不改能够继续伴随我走过这段特殊的人生岁月。</p>
-<p>以下为新旧主题的对比截图，谨留作存照。<a id="more"></a></p>
-<p>旧主题——</p>
-<p><img src="http://image.cpxxpc.com/zhuti1.png" alt=""></p>
-<p>新主题——</p>
-<p><img src="http://image.cpxxpc.com/zhuti2.png" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近日，将“麦收客”的主题由No.7更改为Akina，并完成了对主题代码及文章排版的适度调整；至今日，新主题终于可以正式“接班”了。&lt;/p&gt;
-&lt;p&gt;主题虽改，但“平平淡淡，简简单单”的立足点不会改，希望这些改与不改能够继续伴随我走过这段特殊的人生岁月。&lt;/p&gt;
-&lt;p&gt;以下为新旧主题的对比截图，谨留作存照。
     
     </summary>
     
