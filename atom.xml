@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-02-02T03:45:15.000Z</updated>
+  <updated>2017-02-02T07:02:31.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -20,11 +20,12 @@
     <link href="http://cpxxpc.com/2017/02/01/D1/"/>
     <id>http://cpxxpc.com/2017/02/01/D1/</id>
     <published>2017-01-31T16:00:00.000Z</published>
-    <updated>2017-02-02T03:45:15.000Z</updated>
+    <updated>2017-02-02T07:02:31.000Z</updated>
     
     <content type="html"><![CDATA[<p>春节前至今的近一周时间内，我充分的徜徉在网络建站这条路途上——鼓弄VPS（包括Bandwagon和Vultr）、管理面板（大约三种）、Ghost博客程序等，弄得我日日久坐对绿屏（ssh客户端背景，aya谓之）、夜夜晚睡对愁眠（尤其Ghost程序着实难缠），自己很清楚在目前境况下，这样疯狂的举动其实是很不适合的（虽能屏蔽一时感受，转移一时注意，但很明显，这些替代品并非长久之计）。</p>
 <p>正好，今日已基本折腾出了个稳定的布局（Vultr主机+AMH面板+Ghost@Docker容器+自建翻墙SS），决定见好就收，停止各种折腾，回归宁静本源，按照“<strong>现今三要务：调整心态，改变习惯，适量运动</strong>”来逐步调整自己的生活，寻求一种更加健康平和的生活方式。</p>
 <p>这算是农历丁酉年的第一文，也算是Ghost999子博客的开篇文（没办法，折腾的重要妥协成果之一），谨此标记。</p>
+<p>PS：已测试将主站迁往Vultr（Hexo构建，FTPSync方式发布）。（170202补注）</p>
 ]]></content>
     
     <summary type="html">
@@ -269,7 +270,7 @@
     <link href="http://cpxxpc.com/2017/01/12/D1/"/>
     <id>http://cpxxpc.com/2017/01/12/D1/</id>
     <published>2017-01-11T16:00:00.000Z</published>
-    <updated>2017-01-23T02:27:58.000Z</updated>
+    <updated>2017-02-02T06:19:49.000Z</updated>
     
     <content type="html"><![CDATA[<p>为便于识别与管理，简单汇总下基于Hexo的各同步及测试站点（依托Typora强大而便捷的表格功能加以制作）——</p>
 <table>
@@ -285,7 +286,7 @@
 <tr>
 <td style="text-align:center">主站</td>
 <td style="text-align:center">Mac05</td>
-<td style="text-align:center">Coding</td>
+<td style="text-align:center">Vultr(VPS)</td>
 <td style="text-align:center"><a href="http://cpxxpc.com">cpxxpc.com</a></td>
 </tr>
 <tr>
@@ -295,10 +296,10 @@
 <td style="text-align:center"><a href="http://hexo.cpxxpc.com" target="_blank" rel="external">hexo.cpxxpc.com</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><del>镜像站2</del></td>
-<td style="text-align:center"><del>Mac05</del></td>
-<td style="text-align:center"><del>NAS01</del></td>
-<td style="text-align:center"><del>hexo0.cpxxpc.com</del></td>
+<td style="text-align:center">镜像站2</td>
+<td style="text-align:center">Mac05</td>
+<td style="text-align:center">Coding</td>
+<td style="text-align:center"><a href="http://hexo0.cpxxpc.com" target="_blank" rel="external">hexo0.cpxxpc.com</a></td>
 </tr>
 <tr>
 <td style="text-align:center">测试站1</td>
@@ -400,7 +401,7 @@
     <link href="http://cpxxpc.com/2017/01/10/D1/"/>
     <id>http://cpxxpc.com/2017/01/10/D1/</id>
     <published>2017-01-09T16:00:00.000Z</published>
-    <updated>2017-01-23T02:30:48.000Z</updated>
+    <updated>2017-02-02T06:23:39.000Z</updated>
     
     <content type="html"><![CDATA[<p>昨天，在完善hexo站的“建站时间”这一细节时，才发觉2007-2017，我的写博历程已走过了近十个年头。从“网行志”开始（2007.7~2010.9，原域名webgol.cn、webgol.org，现镜像地址webgol.cpxxpc.com，已停止更新，部分随笔类日志归入本博客），经Qzone等个人空间（基本均已不再做日常更新，部分日志归入本博客），到早期的个人博客“麦收客”（即“史前纪”），直至更新至今的本博客（2012.4建站，定位为个人生活博客兼个人主页，具体变迁历程见下方列表），近十年的时间，陆陆续续写了近500篇各类日志（早期侧重于网络技术类，后期侧重于生活随笔类）。虽品相参差不齐且少有优品，但好在始终坚持原创，每一笔均来自于个人尝试与体悟；早期坚持规律的高密度更新，后期则随性而为、随心而写，其实跳脱出来看，后者才是个人博客的应有姿态，才是符合自我心性的自然之笔，才是可持续发展的长久之计啊！</p>
 <p>好了，更多的感悟就不多说了，以下附上个人生活博客阶段（即本博客）的变迁历程——<a id="more"></a></p>
@@ -420,7 +421,7 @@
 <li>第十二纪：<a href="http://cpxxpc.farbox.com/" target="_blank" rel="external">@Farbox</a>（2016.5.20~6.9，不足一月；绑定域名blog.cpxxpc.com；再随总页迁回farbox，仍名为“CpxxpC的博客”）</li>
 <li>第十三纪：<del>@独立空间/Wordpress</del> （2016.6.9~12.3；近六个月；绑定域名cpxxpc.com；7.18恢复曾用名“麦收客”；12.3留存版迁至NAS01，现已停止更新，<del>仅留存位于NAS01的<a href="http://wp2.cpxxpc.com" target="_blank" rel="external">镜像</a></del>）</li>
 <li>第十四纪：<del>@Github/Jekyll</del> (2016.12.3~2017.1.8，一个多月；绑定域名cpxxpc.com；取消命名；现已停止更新，留存地址可<a href="http://jekyll.cpxxpc.com" target="_blank" rel="external">点此</a>进入）</li>
-<li>第十五纪：<a href="http://cpxxpc.com/">@Coding(Github)/Hexo</a> （2017.1.8~今；绑定域名cpxxpc.com；仍取消命名）</li>
+<li>第十五纪：<a href="http://cpxxpc.com/">@VPS(Github/Coding)/Hexo</a> （2017.1.8~今；绑定域名cpxxpc.com；仍取消命名）</li>
 </ul>
 ]]></content>
     
@@ -445,7 +446,7 @@
     <link href="http://cpxxpc.com/2017/01/08/D1/"/>
     <id>http://cpxxpc.com/2017/01/08/D1/</id>
     <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-23T02:31:38.000Z</updated>
+    <updated>2017-02-02T06:27:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>近日，为了排解腰腿不适的身心痛楚，利用单位及家中的空闲时间，从零开始摸索着鼓弄了一番Hexo这个比较极客的东西。还好，时间并未完全浪费，目前已初步掌握了用其建博的流程与要领，并且已构建出了一套以Mac05为终端的更新与发布平台（以Mac05为本地端，Github为网络端）。经过几天的测试与调整，已决定将它“扶正”，取代原Jekyll版的地位。</p>
 <p>作出这样的决定，并非一时冲动，而是基于以下几点的考虑—<a id="more"></a></p>
@@ -462,6 +463,7 @@
 <p>PS：为追求更稳定的访问效果，也为了尝试下通过Git同步发布至不同服务商，现已引入Coding与Github双轨发布，并已暂定以Coding为主（绑定主域名），Github为辅（绑定辅助域名 hexo.cpxxpc.com），特此标记。（170109补注）</p>
 <p>PS：因当前Github局部访问不正常，影响正常发布，决定暂停Github镜像站的同步更新；<del>同时，尝试通过FTPSync方式新建位于NAS01的镜像站（绑定辅助域名 hexo0.cpxxpc.com），与Coding主站同步更新</del>。（170110补注）</p>
 <p>PS：貌似Github已可正常访问，暂且恢复其同步镜像更新。（170111补注）</p>
+<p>PS：已尝试将主站迁至Vultr.VPS中（FTPSync方式发布），其他作为镜像站。（170202补注）</p>
 ]]></content>
     
     <summary type="html">

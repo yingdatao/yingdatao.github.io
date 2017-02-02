@@ -17,4 +17,4 @@ CpxxpC的个人生活博客（兼个人主页），现内容包括**随笔**（�
 - 第十二纪：[@Farbox](http://cpxxpc.farbox.com/)（2016.5.20~6.9，不足一月；绑定域名blog.cpxxpc.com；再随总页迁回farbox，仍名为“CpxxpC的博客”）
 - 第十三纪：~~@独立空间/Wordpress~~ （2016.6.9~12.3；近六个月；绑定域名cpxxpc.com；7.18恢复曾用名“麦收客”；12.3留存版迁至NAS01，现已停止更新，~~仅留存位于NAS01的[镜像](http://wp2.cpxxpc.com)~~）
 - 第十四纪：~~@Github/Jekyll~~ (2016.12.3~2017.1.8，一个多月；绑定域名cpxxpc.com；取消命名；现已停止更新，留存地址可[点此](http://jekyll.cpxxpc.com)进入）
-- 第十五纪：[@Coding(Github)/Hexo](http://cpxxpc.com/) （2017.1.8~今；绑定域名cpxxpc.com；仍取消命名）
+- 第十五纪：[@VPS(Github/Coding)/Hexo](http://cpxxpc.com/) （2017.1.8~今；绑定域名cpxxpc.com；仍取消命名）
