@@ -456,26 +456,6 @@
 
     
   <url>
-    <loc>http://cpxxpc.com/2014/11/29/A1/</loc>
-    <lastmod>2017-01-11T10:32:15.000Z</lastmod>
-    <data>
-        <display>
-        <title>当我们可以记录气味与滋味时...</title>
-        <pubTime>2014-11-28T16:00:00.000Z</pubTime>
-        
-        <tag>2014</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://cpxxpc.com/2014/11/28/D1/</loc>
     <lastmod>2017-01-11T10:32:15.000Z</lastmod>
     <data>
@@ -492,6 +472,26 @@
           
              
               <breadCrumb title="站务" url="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cpxxpc.com/2014/11/29/A1/</loc>
+    <lastmod>2017-01-11T10:32:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>当我们可以记录气味与滋味时...</title>
+        <pubTime>2014-11-28T16:00:00.000Z</pubTime>
+        
+        <tag>2014</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
