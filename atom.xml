@@ -82,6 +82,31 @@
   </entry>
   
   <entry>
+    <title>简单的小满足</title>
+    <link href="http://cpxxpc.com/2017/01/21/A1/"/>
+    <id>http://cpxxpc.com/2017/01/21/A1/</id>
+    <published>2017-01-20T16:00:00.000Z</published>
+    <updated>2017-01-21T11:43:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。</p>
+<p>发现即拥有，能享受这简单的小满足，生活在这种小确幸式的幸福中，足矣！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。&lt;/p&gt;
+&lt;p&gt;发现即拥有，能享受这简单的小满足，生活在这
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>摘录/笔记/发布全流程（第四版）</title>
     <link href="http://cpxxpc.com/2017/01/21/D1/"/>
     <id>http://cpxxpc.com/2017/01/21/D1/</id>
@@ -175,31 +200,6 @@
       <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
     
       <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简单的小满足</title>
-    <link href="http://cpxxpc.com/2017/01/21/A1/"/>
-    <id>http://cpxxpc.com/2017/01/21/A1/</id>
-    <published>2017-01-20T16:00:00.000Z</published>
-    <updated>2017-01-21T11:43:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。</p>
-<p>发现即拥有，能享受这简单的小满足，生活在这种小确幸式的幸福中，足矣！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;简单的小满足，其实是那么的美好。无论是装修前期忙碌中的点滴“斩获”，还是电脑日常使用中的微小“新鲜”；无论是与孩子间欢笑的一刹，还是与亲人间温馨的一瞬…这点点滴滴的温暖与足够，其实正是一种小确幸，一种触手可及的美好。&lt;/p&gt;
-&lt;p&gt;发现即拥有，能享受这简单的小满足，生活在这
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
@@ -337,35 +337,6 @@
   </entry>
   
   <entry>
-    <title>写博三阶段</title>
-    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
-    <id>http://cpxxpc.com/2017/01/11/A1/</id>
-    <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-01-15T05:49:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
-<blockquote>
-<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
-<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
-<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
-<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
     <title>“平安是幸，健康是福”</title>
     <link href="http://cpxxpc.com/2017/01/11/A2/"/>
     <id>http://cpxxpc.com/2017/01/11/A2/</id>
@@ -389,6 +360,35 @@
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
       <category term="自语" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/%E8%87%AA%E8%AF%AD/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写博三阶段</title>
+    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
+    <id>http://cpxxpc.com/2017/01/11/A1/</id>
+    <published>2017-01-10T16:00:00.000Z</published>
+    <updated>2017-01-15T05:49:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
+<blockquote>
+<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
+<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
+<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
+<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
@@ -428,6 +428,44 @@
     
       &lt;p&gt;昨天，在完善hexo站的“建站时间”这一细节时，才发觉2007-2017，我的写博历程已走过了近十个年头。从“网行志”开始（2007.7~2010.9，原域名webgol.cn、webgol.org，现镜像地址webgol.cpxxpc.com，已停止更新，部分随笔类日志归入本博客），经Qzone等个人空间（基本均已不再做日常更新，部分日志归入本博客），到早期的个人博客“麦收客”（即“史前纪”），直至更新至今的本博客（2012.4建站，定位为个人生活博客兼个人主页，具体变迁历程见下方列表），近十年的时间，陆陆续续写了近500篇各类日志（早期侧重于网络技术类，后期侧重于生活随笔类）。虽品相参差不齐且少有优品，但好在始终坚持原创，每一笔均来自于个人尝试与体悟；早期坚持规律的高密度更新，后期则随性而为、随心而写，其实跳脱出来看，后者才是个人博客的应有姿态，才是符合自我心性的自然之笔，才是可持续发展的长久之计啊！&lt;/p&gt;
 &lt;p&gt;好了，更多的感悟就不多说了，以下附上个人生活博客阶段（即本博客）的变迁历程——
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
+    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
+    <id>http://cpxxpc.com/2017/01/08/D2/</id>
+    <published>2017-01-07T16:00:00.000Z</published>
+    <updated>2017-01-11T06:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
+<p>发布类——</p>
+<ul>
+<li>博客（主页）——<ul>
+<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
+<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
+</ul>
+</li>
+<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
+&lt;p&gt;发布类——&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;博客（主页）——&lt;ul&gt;
+&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
     
     </summary>
     
@@ -481,44 +519,6 @@
   </entry>
   
   <entry>
-    <title>摘录/笔记/发布，各领域新调整（第三版局部修订）</title>
-    <link href="http://cpxxpc.com/2017/01/08/D2/"/>
-    <id>http://cpxxpc.com/2017/01/08/D2/</id>
-    <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-01-11T06:00:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>顺应整体，对原<a href="http://cpxxpc.com/2016/12/02/D1/">第三版</a>“发布类”部分做了以下局部修订：</p>
-<p>发布类——</p>
-<ul>
-<li>博客（主页）——<ul>
-<li>移动端（侧重文字类）：<strong>Simplenote</strong>书写并同步，Mac05电脑端发布      </li>
-<li>电脑端（侧重图文类）：<strong>MarkEditor</strong>书写并由NAS01同步至Mac05（配图由七牛外链并备份至NAS01）- Mac05命令行发布 - 自动由Mac05备份至NAS01</li>
-</ul>
-</li>
-<li>微博：Twitter（移动端）、官网页面（电脑端）</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;顺应整体，对原&lt;a href=&quot;http://cpxxpc.com/2016/12/02/D1/&quot;&gt;第三版&lt;/a&gt;“发布类”部分做了以下局部修订：&lt;/p&gt;
-&lt;p&gt;发布类——&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;博客（主页）——&lt;ul&gt;
-&lt;li&gt;移动端（侧重文字类）：&lt;strong&gt;S
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
     <title>nn成长小记（161229）</title>
     <link href="http://cpxxpc.com/2016/12/29/B1/"/>
     <id>http://cpxxpc.com/2016/12/29/B1/</id>
@@ -539,34 +539,6 @@
     </summary>
     
       <category term="生活" scheme="http://cpxxpc.com/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>主页/博客区隔调整</title>
-    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
-    <id>http://cpxxpc.com/2016/12/28/D1/</id>
-    <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-11T00:39:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
-<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
-<p>低调有情致，真我空间也~~</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
-&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
@@ -597,6 +569,34 @@
     </summary>
     
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主页/博客区隔调整</title>
+    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
+    <id>http://cpxxpc.com/2016/12/28/D1/</id>
+    <published>2016-12-27T16:00:00.000Z</published>
+    <updated>2017-01-11T00:39:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
+<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
+<p>低调有情致，真我空间也~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
+&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
