@@ -337,6 +337,35 @@
   </entry>
   
   <entry>
+    <title>写博三阶段</title>
+    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
+    <id>http://cpxxpc.com/2017/01/11/A1/</id>
+    <published>2017-01-10T16:00:00.000Z</published>
+    <updated>2017-01-15T05:49:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
+<blockquote>
+<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
+<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
+<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
+<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
     <title>“平安是幸，健康是福”</title>
     <link href="http://cpxxpc.com/2017/01/11/A2/"/>
     <id>http://cpxxpc.com/2017/01/11/A2/</id>
@@ -360,35 +389,6 @@
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
       <category term="自语" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/%E8%87%AA%E8%AF%AD/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>写博三阶段</title>
-    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
-    <id>http://cpxxpc.com/2017/01/11/A1/</id>
-    <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-01-15T05:49:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
-<blockquote>
-<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
-<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
-<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
-<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
@@ -546,6 +546,34 @@
   </entry>
   
   <entry>
+    <title>主页/博客区隔调整</title>
+    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
+    <id>http://cpxxpc.com/2016/12/28/D1/</id>
+    <published>2016-12-27T16:00:00.000Z</published>
+    <updated>2017-01-11T00:39:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
+<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
+<p>低调有情致，真我空间也~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
+&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
     <title>近况小语（161228）</title>
     <link href="http://cpxxpc.com/2016/12/28/A1/"/>
     <id>http://cpxxpc.com/2016/12/28/A1/</id>
@@ -569,34 +597,6 @@
     </summary>
     
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>主页/博客区隔调整</title>
-    <link href="http://cpxxpc.com/2016/12/28/D1/"/>
-    <id>http://cpxxpc.com/2016/12/28/D1/</id>
-    <published>2016-12-27T16:00:00.000Z</published>
-    <updated>2017-01-11T00:39:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。</p>
-<p>此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了退隐化处理。</p>
-<p>低调有情致，真我空间也~~</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;近两日，对此博客/主页进行了一点调整，主要是使之在各种分别率的设备上均能够自动隐藏博客部分，以对主页（默认显示）与博客（默认隐藏）加以明确区隔。&lt;/p&gt;
-&lt;p&gt;此过程中，对主页部分的布局进行了微调，以体现简约、个性、导航的特点；至于博客部分，本着低调、自我、闲适的需求进行了
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
     
     
       <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
@@ -634,6 +634,32 @@
   </entry>
   
   <entry>
+    <title>趁着睡意未全失，尽快正常睡下吧！</title>
+    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
+    <id>http://cpxxpc.com/2016/12/08/A1/</id>
+    <published>2016-12-07T16:00:00.000Z</published>
+    <updated>2017-01-11T00:39:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
+<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
     <title>暖心小语</title>
     <link href="http://cpxxpc.com/2016/12/08/A2/"/>
     <id>http://cpxxpc.com/2016/12/08/A2/</id>
@@ -653,32 +679,6 @@
 &lt;p&gt;不患得失；&lt;/p&gt;
 &lt;p&gt;舒缓心境，&lt;/p&gt;
 &lt;p&gt;坦向明晨。
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>趁着睡意未全失，尽快正常睡下吧！</title>
-    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
-    <id>http://cpxxpc.com/2016/12/08/A1/</id>
-    <published>2016-12-07T16:00:00.000Z</published>
-    <updated>2017-01-11T00:39:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
-<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
-
     
     </summary>
     
