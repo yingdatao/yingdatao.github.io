@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cpxxpc.com/"/>
-  <updated>2017-02-03T12:31:15.000Z</updated>
+  <updated>2017-02-05T13:08:19.000Z</updated>
   <id>http://cpxxpc.com/</id>
   
   <author>
@@ -16,22 +16,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>停止折腾，回归宁静</title>
-    <link href="http://cpxxpc.com/2017/02/01/D1/"/>
-    <id>http://cpxxpc.com/2017/02/01/D1/</id>
-    <published>2017-01-31T16:00:00.000Z</published>
-    <updated>2017-02-03T12:31:15.000Z</updated>
+    <title>转站“主机公园”</title>
+    <link href="http://cpxxpc.com/2017/02/05/D1/"/>
+    <id>http://cpxxpc.com/2017/02/05/D1/</id>
+    <published>2017-02-04T16:00:00.000Z</published>
+    <updated>2017-02-05T13:08:19.000Z</updated>
     
-    <content type="html"><![CDATA[<p>春节前至今的近一周时间内，我充分的徜徉在网络建站这条路途上——鼓弄VPS（包括Bandwagon和Vultr）、管理面板（大约三种）、Ghost博客程序等，弄得我日日久坐对绿屏（ssh客户端背景，aya谓之）、夜夜晚睡对愁眠（尤其Ghost程序着实难缠），自己很清楚在目前境况下，这样疯狂的举动其实是很不适合的（虽能屏蔽一时感受，转移一时注意，但很明显，这些替代品并非长久之计）。</p>
-<p>正好，今日已基本折腾出了个稳定的布局（Vultr主机+BT面板+Ghost@Docker容器+自建翻墙SS），决定见好就收，停止各种折腾，回归宁静本源，按照“<strong>现今三要务：调整心态，改变习惯，适量运动</strong>”来逐步调整自己的生活，寻求一种更加健康平和的生活方式。<a id="more"></a></p>
-<p>这算是农历丁酉年的第一文，也算是Ghost-hello子博客的开篇文（没办法，折腾的重要妥协成果之一），谨此标记。</p>
-<p>PS：已测试将主站迁往Vultr（Hexo构建，FTPSync方式发布）。（170202补注）</p>
+    <content type="html"><![CDATA[<p>为了追求更快、更稳定的访问效果，今晚将各自建站点重新布局到了测试购入的主机公园<a href="https://www.hostpark.cn/us_sj_vps.html" target="_blank" rel="external">CN2-512洛杉矶VPS</a>中，还不错，仅一个小时左右就完成了全面布局，现在各站点均已运行在此主机上了，这速度，可比Vultr的日本主机快多了（上次布局时仅上传一个不到60MB的压缩包就用了一个半小时，那速度，真叫一个酸爽），这也更坚定了我立足此地的决心。</p>
+<p>如果不出意外，我的Vultr主机历程即将画上一个句号；主机公园，可别让我失望哦~~</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;春节前至今的近一周时间内，我充分的徜徉在网络建站这条路途上——鼓弄VPS（包括Bandwagon和Vultr）、管理面板（大约三种）、Ghost博客程序等，弄得我日日久坐对绿屏（ssh客户端背景，aya谓之）、夜夜晚睡对愁眠（尤其Ghost程序着实难缠），自己很清楚在目前境况下，这样疯狂的举动其实是很不适合的（虽能屏蔽一时感受，转移一时注意，但很明显，这些替代品并非长久之计）。&lt;/p&gt;
-&lt;p&gt;正好，今日已基本折腾出了个稳定的布局（Vultr主机+BT面板+Ghost@Docker容器+自建翻墙SS），决定见好就收，停止各种折腾，回归宁静本源，按照“&lt;strong&gt;现今三要务：调整心态，改变习惯，适量运动&lt;/strong&gt;”来逐步调整自己的生活，寻求一种更加健康平和的生活方式。
+      &lt;p&gt;为了追求更快、更稳定的访问效果，今晚将各自建站点重新布局到了测试购入的主机公园&lt;a href=&quot;https://www.hostpark.cn/us_sj_vps.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CN2-512洛杉矶VPS&lt;/a&gt;中
+    
+    </summary>
+    
+      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
+    
+      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>停止折腾，回归宁静</title>
+    <link href="http://cpxxpc.com/2017/02/01/D1/"/>
+    <id>http://cpxxpc.com/2017/02/01/D1/</id>
+    <published>2017-01-31T16:00:00.000Z</published>
+    <updated>2017-02-05T13:10:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>春节前至今的近一周时间内，我充分的徜徉在网络建站这条路途上——鼓弄VPS（包括Bandwagon、Vultr，主机公园）、管理面板（大约三种）、Ghost博客程序等，弄得我日日久坐对绿屏（ssh客户端背景，aya谓之）、夜夜晚睡对愁眠（尤其Ghost程序着实难缠），自己很清楚在目前境况下，这样疯狂的举动其实是很不适合的（虽能屏蔽一时感受，转移一时注意，但很明显，这些替代品并非长久之计）。</p>
+<p>正好，今日已基本折腾出了个稳定的布局（主机公园VPS+BT面板+Ghost@Docker容器），决定见好就收，停止各种折腾，回归宁静本源，按照“<strong>现今三要务：调整心态，改变习惯，适量运动</strong>”来逐步调整自己的生活，寻求一种更加健康平和的生活方式。<a id="more"></a></p>
+<p>这算是农历丁酉年的第一文，也算是Ghost-hello子博客的开篇文（没办法，折腾的重要妥协成果之一），谨此标记。</p>
+<p>PS：已测试将主站迁往Vultr（Hexo构建，FTPSync方式发布）。（170202补注）</p>
+<p>PS：主站已随同迁至主机公园。（170205补注）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;春节前至今的近一周时间内，我充分的徜徉在网络建站这条路途上——鼓弄VPS（包括Bandwagon、Vultr，主机公园）、管理面板（大约三种）、Ghost博客程序等，弄得我日日久坐对绿屏（ssh客户端背景，aya谓之）、夜夜晚睡对愁眠（尤其Ghost程序着实难缠），自己很清楚在目前境况下，这样疯狂的举动其实是很不适合的（虽能屏蔽一时感受，转移一时注意，但很明显，这些替代品并非长久之计）。&lt;/p&gt;
+&lt;p&gt;正好，今日已基本折腾出了个稳定的布局（主机公园VPS+BT面板+Ghost@Docker容器），决定见好就收，停止各种折腾，回归宁静本源，按照“&lt;strong&gt;现今三要务：调整心态，改变习惯，适量运动&lt;/strong&gt;”来逐步调整自己的生活，寻求一种更加健康平和的生活方式。
     
     </summary>
     
@@ -271,7 +298,7 @@
     <link href="http://cpxxpc.com/2017/01/12/D1/"/>
     <id>http://cpxxpc.com/2017/01/12/D1/</id>
     <published>2017-01-11T16:00:00.000Z</published>
-    <updated>2017-02-02T06:19:49.000Z</updated>
+    <updated>2017-02-05T13:11:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>为便于识别与管理，简单汇总下基于Hexo的各同步及测试站点（依托Typora强大而便捷的表格功能加以制作）——</p>
 <table>
@@ -287,7 +314,7 @@
 <tr>
 <td style="text-align:center">主站</td>
 <td style="text-align:center">Mac05</td>
-<td style="text-align:center">Vultr(VPS)</td>
+<td style="text-align:center">VPS</td>
 <td style="text-align:center"><a href="http://cpxxpc.com">cpxxpc.com</a></td>
 </tr>
 <tr>
@@ -339,35 +366,6 @@
   </entry>
   
   <entry>
-    <title>写博三阶段</title>
-    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
-    <id>http://cpxxpc.com/2017/01/11/A1/</id>
-    <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-01-15T05:49:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
-<blockquote>
-<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
-<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
-<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
-<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
     <title>“平安是幸，健康是福”</title>
     <link href="http://cpxxpc.com/2017/01/11/A2/"/>
     <id>http://cpxxpc.com/2017/01/11/A2/</id>
@@ -391,6 +389,35 @@
       <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
       <category term="自语" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/%E8%87%AA%E8%AF%AD/"/>
+    
+    
+      <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写博三阶段</title>
+    <link href="http://cpxxpc.com/2017/01/11/A1/"/>
+    <id>http://cpxxpc.com/2017/01/11/A1/</id>
+    <published>2017-01-10T16:00:00.000Z</published>
+    <updated>2017-01-15T05:49:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天，偶然在网上看到了一段话（源自阮一峰大神的<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html" target="_blank" rel="external">博文</a>），正可印证我的写博历程（自视已迈入第三阶段），同时也可在他人质疑我的写博方式时给以解答，不多说了，以下便是这段文字——</p>
+<blockquote>
+<p><strong>喜欢写Blog的人，会经历三个阶段：</strong></p>
+<p>第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写；</p>
+<p>第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客；</p>
+<p>第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天，偶然在网上看到了一段话（源自阮一峰大神的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博文&lt;/a&gt;），
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="2017" scheme="http://cpxxpc.com/tags/2017/"/>
@@ -637,32 +664,6 @@
   </entry>
   
   <entry>
-    <title>趁着睡意未全失，尽快正常睡下吧！</title>
-    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
-    <id>http://cpxxpc.com/2016/12/08/A1/</id>
-    <published>2016-12-07T16:00:00.000Z</published>
-    <updated>2017-01-11T00:39:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
-<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
     <title>暖心小语</title>
     <link href="http://cpxxpc.com/2016/12/08/A2/"/>
     <id>http://cpxxpc.com/2016/12/08/A2/</id>
@@ -693,6 +694,32 @@
   </entry>
   
   <entry>
+    <title>趁着睡意未全失，尽快正常睡下吧！</title>
+    <link href="http://cpxxpc.com/2016/12/08/A1/"/>
+    <id>http://cpxxpc.com/2016/12/08/A1/</id>
+    <published>2016-12-07T16:00:00.000Z</published>
+    <updated>2017-01-11T00:39:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？</p>
+<p><strong>趁着睡意未全失，尽快正常睡下吧</strong>！这不，就写下这点吧！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夜沉沉，眠后醒转再入眠，半梦半醒间，想要写下点什么，好暂时了却近几日迁入新站后尽快落下一笔的念头；不过，到底写点什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趁着睡意未全失，尽快正常睡下吧&lt;/strong&gt;！这不，就写下这点吧！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://cpxxpc.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
     <title>完成两项收尾调整</title>
     <link href="http://cpxxpc.com/2016/12/05/D1/"/>
     <id>http://cpxxpc.com/2016/12/05/D1/</id>
@@ -710,32 +737,6 @@
       &lt;p&gt;今日，对Github站做了收尾的两项调整与完善——&lt;/p&gt;
 &lt;p&gt;其一，刚刚才了解到此架构并不支持IE内核浏览，因此对提示页面做了相应的“汉化”（并使用二维码作为补救手段）。虽然有一定缺失感，但对于我低调、朴实的立足点也不是什么问题，何况，现在采用纯IE内核浏览器的人也并不是那么多了，这方面的影响可以大致忽略掉的。&lt;/p&gt;
 &lt;p&gt;其二，将原“其他”分类更名为“杂录”，并同时对自定义链接名加以完善，补充进代表分类的大写字母，再加上原有的序列号，以方便个人批量识别。
-    
-    </summary>
-    
-      <category term="杂录" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/"/>
-    
-      <category term="站务" scheme="http://cpxxpc.com/categories/%E6%9D%82%E5%BD%95/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-      <category term="2016" scheme="http://cpxxpc.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>选定Github，确定“高精简”</title>
-    <link href="http://cpxxpc.com/2016/12/03/D1/"/>
-    <id>http://cpxxpc.com/2016/12/03/D1/</id>
-    <published>2016-12-02T16:00:00.000Z</published>
-    <updated>2017-01-23T02:32:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在反复权衡后，决定从今日起，Github站（基于Jekyll）作为新的个人主页/博客得以“正位”，新站决定保留原cpxxpc.com个人域名及图片外链方式，放弃”麦收客“的命名；<del>原独立空间的Wordpress版”麦收客“转入NAS01留存，停止更新，仅作为镜像化备份；同时，将”网行志“镜像站亦转入NAS01，作为纪念性留存</del>。</p>
-<p>至此，全功能or高精简之议终于有了定论，我还是选择了更为高效简约的第三方托管方式，虽然放弃了很多个性化、完善化的功能，但在目前境况下，还是这种高度的集成与简约更为适合我。从此以后，放弃各种折腾、各种繁琐，回归一个小小的个人主页/博客的基本立足点上来吧。也许，只有放弃了貌似华丽的功能，才能有可能回归朴实的内容，尤其对于现阶段的我，更是应该如此的！！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在反复权衡后，决定从今日起，Github站（基于Jekyll）作为新的个人主页/博客得以“正位”，新站决定保留原cpxxpc.com个人域名及图片外链方式，放弃”麦收客“的命名；&lt;del&gt;原独立空间的Wordpress版”麦收客“转入NAS01留存，停止更新，仅作为镜像化备
     
     </summary>
     
